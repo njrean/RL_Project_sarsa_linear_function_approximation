@@ -1,0 +1,2 @@
+On-policy 
+It’s also worth noting that because the optimal action will be sampled more often than the others making on-policy algorithms will generally converge faster but they also have the risk of trapping the agent into a local optimum of the function.
